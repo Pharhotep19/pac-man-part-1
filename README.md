@@ -1,1 +1,1 @@
-# pac-man-part-1
+# Pac Man Part 1
